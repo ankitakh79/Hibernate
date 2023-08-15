@@ -1,0 +1,22 @@
+Questions:
+Basic operations:
+
+Inserting data
+
+Displaying  data
+
+Q.1)WAJP to accept product info from the end user and no. of customer info who want to buy that product.
+
+Q.2)WAJP to update product price (accept product id from end user)
+
+Q.3) WAJP to display customer name who has purchase exactly two products.
+
+Q.4) WAJP to display the product name whose price less than 15k.
+
+Q.5) WAJP to display customer name whose name starts with 'A'.
+
+Q.6) WAJP to display productName which has only 1 buyer.
+
+Q.7)WAJP to accept product name from end user and display the customer info who has purchased the product.
+
+
